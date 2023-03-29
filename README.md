@@ -18,15 +18,10 @@
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 
-### Testing
+### Testing Libraries
 ![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=for-the-badge&logo=Jasmine&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-
-### Stats
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=gweinert)](https://github.com/gweinert)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gweinert&layout=compact)](https://github.com/gweinert)
 
 <!--
 **gweinert/gweinert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
