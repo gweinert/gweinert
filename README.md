@@ -1,6 +1,6 @@
 ### Howdy 👋
 
-Hi, I'm Garrett Weinert, a full stack web developer from California. I specialize in writing scalable, test driven, pixel perfect web applications. Outside of development, you can find me outside on the mountain snowboarding, or in the ocean surfing!
+I'm Garrett Weinert, a full stack web developer from California. I specialize in writing scalable, test driven, pixel perfect web applications. When I'm not programming, you can find me outside on the mountain snowboarding, or in the ocean surfing!
 
 ## Technical Skills
 ### Languages
